@@ -1,0 +1,12 @@
+{
+  "fixture": "Deterministic offline SDK result; no real provider request",
+  "prompt": "Review branch cleanup",
+  "result": {
+    "type": "result",
+    "subtype": "success",
+    "is_error": true,
+    "result": "Failed to authenticate. OAuth session expired. Please log in again."
+  },
+  "before": "failed-to-authenticate-oauth-session-exp",
+  "after": "review-branch-cleanup"
+}
